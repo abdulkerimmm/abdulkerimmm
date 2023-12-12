@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on any Project
 - 🤔 I’m looking for help with a my project
 - 💬 Ask me about Everything
-- 📫 How to reach me: linkleed 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: https://www.linkedin.com/in/abdulkerim-yal%C3%A7%C4%B1n-88a3461a5/
+- 😄 Enjoy your learning
+- ⚡ Fun fact: keep Learning
   
