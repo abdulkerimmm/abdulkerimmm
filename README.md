@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on a Next js project
+- 🔭 I have  graduated from computer science recently 
 - 🌱 I’m currently learning React and Next js
 - 👯 I’m looking to collaborate on any Project
 - 🤔 I’m looking for help with a my project
