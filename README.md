@@ -13,7 +13,7 @@
 
 - 🔭 I have graduated from **computer science recently**
 
-- 👨‍💻 All of my projects are available at [https://abdulkerim.online](https://abdulkerim.online)
+- 👨‍💻 All of my projects are available at [https://abdulkerim.site](https://abdulkerim.site)
 
 - 🤝 I’m looking for help with my Multi Language  project By IP [https://abdulkerimmm.github.io/MultiLanguageApp/]
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **abdulkerimy94@gmail.com**
 
-- 📄 Know about my experiences [https://abdulkerim.online](https://abdulkerim.online)
+- 📄 Know about my experiences [https://abdulkerim.site](https://abdulkerim.site)
 
 - ⚡ Fun fact **keep Learning**
 
