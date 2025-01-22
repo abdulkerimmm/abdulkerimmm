@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a Next js and React Native project**
 
-- 🌱 I’m currently learning **React and Next js and React Native**
+- 🌱 I’m currently learning **React, Next js and React Native**
 
 - 👯 I’m looking to collaborate on **any Project**
 
@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with my Multi Language  project By IP [https://abdulkerimmm.github.io/MultiLanguageApp/]
 
-- 💬 Ask me about **Javascript React Next js React Native**
+- 💬 Ask me about **Javascript, React, Next js and React Native**
 
 - 📫 How to reach me **abdulkerimy94@gmail.com**
 
