@@ -1,23 +1,23 @@
 [![MasterHead](https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=2070&h=700&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://rishavchanda.io) 
 <h1 align="center">Hi 👋, I'm Abdulkerim</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend and mobile developer from Turkey</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkerimmm&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkerimmm" /> </p>
 
-- 🔭 I’m currently working on **a Next js project**
+- 🔭 I’m currently working on **a Next js and React Native project**
 
-- 🌱 I’m currently learning **React and Next js**
+- 🌱 I’m currently learning **React and Next js and React Native**
 
 - 👯 I’m looking to collaborate on **any Project**
 
-- 🔭 I have graduated from **computer science recently**
+- 🔭 I have graduated from **computer science**
 
 - 👨‍💻 All of my projects are available at [https://abdulkerim.site](https://abdulkerim.site)
 
 - 🤝 I’m looking for help with my Multi Language  project By IP [https://abdulkerimmm.github.io/MultiLanguageApp/]
 
-- 💬 Ask me about **Javascript React Next js**
+- 💬 Ask me about **Javascript React Next js React Native**
 
 - 📫 How to reach me **abdulkerimy94@gmail.com**
 
