@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abdulkerim.site](https://abdulkerim.site)
 
-- 🤝 I’m looking for help with my Multi Language  project By IP [https://abdulkerimmm.github.io/MultiLanguageApp/]
+- 🤝 I’m looking for help with my Multi Language  project By IP 
 
 - 💬 Ask me about **Javascript, React, Next js and React Native**
 
